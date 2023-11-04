@@ -2,3 +2,8 @@
     text-align: center;
     font-weight: bold;
 }
+
+.card {
+    width: 50%;
+    margin: 0 auto;
+}
